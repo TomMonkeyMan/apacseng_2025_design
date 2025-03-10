@@ -1,12 +1,12 @@
 # apacseng_2025_design_workshop
 
-The third attempt at design is indeed challenging. In fact, the third time doing anything is difficult, as it means pushing beyond previous boundaries. Although AIGC models have advanced further, with the well-known *Flux* being a prime example, there hasn’t been significant progress in generating customized design drafts. 
+The third attempt at design is indeed challenging. In fact, the third time doing anything is difficult, as it means pushing beyond previous boundaries. Although AIGC models have advanced further, with the well-known __Flux__ being a prime example, there hasn’t been significant progress in generating customized design drafts. 
 
-I wasn't able to successfully generate the latest Model 3/Y or Cybertruck because AIGC's memory is too strong. While it can generate different styles of artwork based on the new models, once multiple elements start to combine and "generate" together, the results always become distorted and eventually converge toward older models—no matter how I adjust the temperature. This limitation is inherent to the generative model itself.
+I wasn't able to successfully generate the latest Model 3/Y or Cybertruck because AIGC's memory is too strong. While it can generate different styles of artwork based on the new models, once multiple elements start to combine and __"generate together"__, the results always become distorted and eventually converge toward older models—no matter how I adjust the temperature. This limitation is inherent to the generative model itself.
 
-To sum up, you might find this time disappointing.
+To sum up, you might find this time a little disappointing.
 
-Due to a tight schedule, I didn’t experiment with too many models this time. I tried Flux, but the results didn’t seem promising—perhaps because I wasn’t using a more powerful version of Flux, as I had limited credits left. DALL·E 2/3 continues to deliver impressive performance. Moreover, it seems that this year is more about large model distillation rather than AIGC advancements.
+Due to a __tight schedule__, I didn’t experiment with too many models this time. I tried __Flux__, but the results didn’t seem promising—perhaps because I wasn’t using a more powerful version of Flux, as I had limited credits left. __DALL·E 2/3__ continues to deliver impressive performance. Moreover, it seems that this year is more about __large model distillation__ rather than AIGC advancements.
 
 I previously mentioned that I uploaded the designs to a public Git repository—not just for editing by third parties, but more importantly, so that my colleagues could access them from anywhere. It turned out to be prophetic; last year, many outstanding colleagues left us. I will continue to upload the designs to the public Git repository as a way to express my remembrance of them.
 
