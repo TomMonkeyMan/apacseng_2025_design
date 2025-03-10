@@ -1,6 +1,6 @@
 # apacseng_2025_design_workshop
 
-The third attempt at design is indeed challenging. In fact, the third time doing anything is difficult, as it means pushing beyond previous boundaries. Although AIGC models have advanced further, with the well-known Flux being a prime example, there hasn’t been significant progress in generating customized design drafts. 
+The third attempt at design is indeed challenging. In fact, the third time doing anything is difficult, as it means pushing beyond previous boundaries. Although AIGC models have advanced further, with the well-known *Flux* being a prime example, there hasn’t been significant progress in generating customized design drafts. 
 
 I wasn't able to successfully generate the latest Model 3/Y or Cybertruck because AIGC's memory is too strong. While it can generate different styles of artwork based on the new models, once multiple elements start to combine and "generate" together, the results always become distorted and eventually converge toward older models—no matter how I adjust the temperature. This limitation is inherent to the generative model itself.
 
